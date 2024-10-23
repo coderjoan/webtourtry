@@ -130,13 +130,13 @@ var APP_DATA = {
           "yaw": -1.4564468231253276,
           "pitch": 0.021584894154681677,
           "title": "Spinelli Coffee Company",
-          "text": "RIP it has been replaced"
+          "text": "RIP it has been replaced, now He by He Brews"
         },
         {
           "yaw": 1.4803741793322152,
           "pitch": 0.4845550657288058,
           "title": "Random Stand",
-          "text": "I have never seen this before"
+          "text": "I have never seen this before (or maybe just briefly)"
         }
       ]
     }
